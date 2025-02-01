@@ -1,0 +1,19 @@
+{
+    "name": "Conference Room A",
+    "department": "IT Department",
+    "hallName": "Main Hall",
+    "currentBookings": [
+      {
+        "userId": "user123",
+        "bookingDate": "2025-01-18T10:30:00.000Z",
+        "duration": 2
+      },
+      {
+        "userId": "user456",
+        "bookingDate": "2025-01-18T13:00:00.000Z",
+        "duration": 3
+      }
+    ],
+    "halls": "Main Campus Hall"
+  }
+  
